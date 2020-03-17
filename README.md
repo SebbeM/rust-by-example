@@ -1,4 +1,4 @@
-# Rust By Example
+# Sebbe's Rust By Example
 
 [![Build Status][travis-badge]][travis-repo]
 

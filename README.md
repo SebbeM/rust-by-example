@@ -6,6 +6,8 @@
 [travis-repo]: https://travis-ci.com/rust-lang/rust-by-example
 
 Learn Rust with examples (Live code editor included)
+This is my own little fork where I can add my activity implementations so I can go back and see what I have done in 2 days when I have forgotten everything.
+If somebody happens to take a look at my commits and cares to explain to me where I have made some of the mistakes I will inevitably make, feel free to let me know!
 
 ## Using
 
